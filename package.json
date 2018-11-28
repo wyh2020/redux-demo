@@ -9,6 +9,7 @@
     "react": "^16.6.0",
     "react-app-rewired": "^1.6.2",
     "react-dom": "^16.6.0",
+    "react-lazy-load": "^3.0.13",
     "react-redux": "^5.0.7",
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
